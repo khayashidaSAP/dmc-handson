@@ -1,6 +1,8 @@
 # dmc-handson
 
 Remote Desktopのログインについては、HandsOn内でお知らせします。
+<br>
+ログインすると、HandsOn_OPCServerというUA-Expertのショートカットがあるので、それを使ってOPCタグの情報を確認してください。
 <p>
 DMC(Digital <anufacturing Cloud)URL<br><br>
 https://dmc-azure-14403.test.execution.eu20.dmc.cloud.sap/cp.portal/site#Shell-home
